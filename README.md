@@ -6,6 +6,8 @@
 
 - Try creating your own DockerFile for your Nodejs application (without reliance on a DB) and try creating a running image of your application. Provide your public Dockerhub image link to the trainer and they should be able to run your application using your docker image.
 
+- To find my image, visit [Docker Hub](https://hub.docker.com/r/dtr6210/mod10e4).
+
 ### Exercise 2 (Slide 28)
 
 - Try creating your own GitHub Actions for your Nodejs application and try creating a running CI/CD pipeline for your application that updates your Dockerhub image automatically when new commits are made.
